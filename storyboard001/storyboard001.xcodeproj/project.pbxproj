@@ -14,6 +14,7 @@
 		25B19540244B1F21001B4E16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 25B1953F244B1F21001B4E16 /* Assets.xcassets */; };
 		25B19543244B1F22001B4E16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 25B19541244B1F22001B4E16 /* LaunchScreen.storyboard */; };
 		25B19546244B1F22001B4E16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 25B19545244B1F22001B4E16 /* main.m */; };
+		25E642D9244B36B30031D0D2 /* TBViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25E642D8244B36B30031D0D2 /* TBViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		25B19542244B1F22001B4E16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		25B19544244B1F22001B4E16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		25B19545244B1F22001B4E16 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		25E642D7244B36B30031D0D2 /* TBViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TBViewController.h; sourceTree = "<group>"; };
+		25E642D8244B36B30031D0D2 /* TBViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TBViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 				25B19536244B1F20001B4E16 /* SceneDelegate.h */,
 				25B19537244B1F20001B4E16 /* SceneDelegate.m */,
 				25B19539244B1F20001B4E16 /* ViewController.h */,
+				25E642D7244B36B30031D0D2 /* TBViewController.h */,
+				25E642D8244B36B30031D0D2 /* TBViewController.m */,
 				25B1953A244B1F20001B4E16 /* ViewController.m */,
 				25B1953C244B1F20001B4E16 /* Main.storyboard */,
 				25B1953F244B1F21001B4E16 /* Assets.xcassets */,
@@ -147,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				25B1953B244B1F20001B4E16 /* ViewController.m in Sources */,
+				25E642D9244B36B30031D0D2 /* TBViewController.m in Sources */,
 				25B19535244B1F20001B4E16 /* AppDelegate.m in Sources */,
 				25B19546244B1F22001B4E16 /* main.m in Sources */,
 				25B19538244B1F20001B4E16 /* SceneDelegate.m in Sources */,
